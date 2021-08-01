@@ -2,3 +2,5 @@ Rosty
 Blue
 Scout
 Chickens
+Monty
+Mocha
